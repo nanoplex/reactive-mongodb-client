@@ -1,0 +1,21 @@
+{
+  "name": "reactive-mongodb",
+  "version": "0.0.1",
+  "description": "reactive mongodb node interface",
+  "main": "mongodb.ts",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "nanoplex",
+    "ractive",
+    "mongodb",
+    "node"
+  ],
+  "author": "mathias hansen",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.0.43",
+    "rx": "^3.1.2"
+  }
+}
